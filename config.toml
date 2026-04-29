@@ -1,0 +1,14 @@
+[[competitions]]
+slug = "nfl-big-data-bowl-2026-prediction"
+files = []
+unzip = true
+
+[[competitions]]
+slug = "nfl-big-data-bowl-2026-analytics"
+files = []
+unzip = true
+
+[[competitions]]
+slug = "nfl-big-data-bowl-2023"
+files = []
+unzip = true
